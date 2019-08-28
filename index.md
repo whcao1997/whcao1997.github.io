@@ -2,13 +2,13 @@
 title: Weihao Cao| 曹伟豪
 feature_text: |
   ## Weihao Cao| 曹伟豪  
-  A Math and Physics double major undergraduate student from HKU.
+  A Physics graduate student from UC San Diego.
 feature_image: "https://unsplash.it/1300/400?image=971"
 excerpt: ""
 aside: true
 ---
 
-Welcome to Weihao Cao's personal website. My research interests focus on quantum computing and condensed matter physics, with personal interest in expanding potential interests multidisciplinary.   
+Welcome to Weihao Cao's personal website. My research interests focus on quantum computing and condensed matter experiments, with personal interest in expanding potential interests multidisciplinary.   
 You may refer to the [Resume](resume/) page or [Detail Info](https://cwhypt.wixsite.com/main) for my profile or multimedia. On the [Timeline](timeline/) page are some  messy experiences. What's more, the [Blog](blog/) page is used to record some sturctured knowledge.(Welcome for discussion!)   
 Finally, if you have any issues, contact me through the [Contact](contact/) page or email me directly.
 

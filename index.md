@@ -8,7 +8,8 @@ excerpt: ""
 aside: true
 ---
 
-Welcome to Weihao Cao's personal website. I am a 1st-year graduate student at UC San Deigo, department of Physics. My research interests focus on quantum computing and condensed matter experiments, with personal interest in expanding potential interests multidisciplinary. I currently work in Professor Monica [Allen's group](https://allen.physics.ucsd.edu/) in 2D heterostructures.
+Welcome to Weihao Cao's personal website. I am a 1st-year graduate student at UC San Deigo, department of Physics. My research interests focus on quantum computing and condensed matter experiments, with personal interest in expanding potential interests multidisciplinary. I currently work in Professor Monica [Allen's group](https://allen.physics.ucsd.edu/) in 2D heterostructures.  
+
 You may refer to the [Resume](resume/) page or [Detail Info](https://cwhypt.wixsite.com/main) for my profile or multimedia. On the [Timeline](timeline/) page are some  messy experiences. What's more, the [Blog](blog/) page is used to record some sturctured knowledge.(Welcome for discussion!)   
 Finally, if you have any issues, contact me through the [Contact](contact/) page or email me directly.
 

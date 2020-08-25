@@ -17,7 +17,7 @@ Finally, if you have any issues, contact me through the [Contact](contact/) page
 
 Quantum Computing - [Report](https://weihaocao.com/physics/2017/11/25/quantum-computing/)  
 Machine Learning - [Post 1](https://weihaocao.com/computer/2017/08/30/conv-net-one/) [Post 2](https://weihaocao.com/computer/2017/08/31/conv-net-two/) [Post 3](https://weihaocao.com/computer/2017/10/01/conv-net-three/)    
-Data Visualization - [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWVkMjg5YWYtMDhjNy00NGM0LWI3YzMtZWMxNmI2ZDMwOWZjIiwidCI6IjlhZGE5OWQyLTg3MDQtNDc0ZC05OTAxLTA5OWE5ZTAxMGUzNyJ9)      
+Data Visualization - [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmZhOGJhOTktNDg4Yi00NGMzLTljZDAtNmZkNDM4ZjhjZTE2IiwidCI6IjlhZGE5OWQyLTg3MDQtNDc0ZC05OTAxLTA5OWE5ZTAxMGUzNyJ9&pageName=ReportSection)      
 
 ## Upload
 [Upload to fileinbox](https://fileinbox.com/weihaocao) 

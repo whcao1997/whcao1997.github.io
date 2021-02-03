@@ -3,7 +3,7 @@ title: Leonard Weihao Cao| 曹伟豪
 feature_text: |
   ## Leonard Weihao Cao| 曹伟豪  
   A Physics graduate student from UC San Diego.
-feature_image: "https://unsplash.it/1300/400?image=971"
+feature_image: "https://weihaocao.com/assets/971.jpg"
 excerpt: ""
 aside: true
 ---

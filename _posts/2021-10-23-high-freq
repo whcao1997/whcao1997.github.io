@@ -1,0 +1,30 @@
+---
+title: Noise in high frequency signal generators from an amateur 
+category: Miscellaneous 
+excerpt: |    
+  One (probably) biggest lesson of the year 
+feature_image: "https://unsplash.it/1300/400?random"
+---
+
+Tl;dr: Don't trust the noise performance of high-freq signal generators except at the signal frequency.
+
+<!-- more -->
+
+##### Background 
+
+The large background current measured in our sample made me feel suspicious of the performance of the high frequency signal sources: HP 8753D Network Analyzer and E8257D PSG Analog Signal Generator, so I checked the frequency specturm of the source using an oscilliscope, and the result turned out to be very interesting ┑(￣Д ￣)┍   
+  
+###### Result 
+
+
+The PSG frequency was set at 51.511MHz and -20 dbM, and the detected frequency peak include:  
+-3dbM at 51.511MHz (expected)  
+-30dbM at 1.511MHz
+-35dbM at 11.36kHz
+-50dbM at 60Hz
+
+{% include figure.html image="https://weihaocao.com/assets/images/freq_51M.jpg" caption="Expected frequency" %} 
+
+{% include figure.html image="https://weihaocao.com/assets/images/freq_11k.jpg" caption="Peak at 11.36kHz" %} 
+
+{% include figure.html image="https://weihaocao.com/assets/images/freq_55.jpg" caption="Peak at 55Hz" %} 

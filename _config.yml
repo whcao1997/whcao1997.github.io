@@ -78,7 +78,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Weihao Cao" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "A Math and Physics double major undergraduate student in HKU."
+description: "A physics PhD candidate at UC San Diego."
 url: "https://weihaocao.com" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/cwhypt"
